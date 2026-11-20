@@ -1,5 +1,7 @@
 # Decrypted databases and keys - NEVER upload
 all_keys.json
+all_keys.json.bak_*
+*.bak_*
 wechat_key.txt
 config.json
 decrypted/
